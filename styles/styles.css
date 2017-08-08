@@ -1,10 +1,11 @@
 body{
     text-align: center;
     background-color: #E6E5ED;
-    margin:3% 10%;
+    margin:auto 10%;
     padding: 10px 30px;
     line-height: 25px;
     border-radius: 1%;
+    color;#333333;
     
 }
 h3{
@@ -19,7 +20,7 @@ h3{
 .timeline{
     text-align: left;
     font-family: 'Domine', sans-serif;
-    color;#333333;
+    
 }
 html{
     background-color: #9C7A71;
