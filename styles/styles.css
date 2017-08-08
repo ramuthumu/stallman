@@ -3,8 +3,8 @@ body{
     background-color: #E6E5ED;
     margin:auto 10%;
     padding: 10px 30px;
-    line-height: 25px;
     border-radius: 1%;
+    line-height: 30px;
     color;#333333;
     
 }
@@ -22,6 +22,7 @@ h3{
     font-family: 'Domine', sans-serif;
     
 }
+
 html{
     background-color: #9C7A71;
 }
